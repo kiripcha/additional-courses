@@ -1,0 +1,5 @@
+4.36 -1.29 0.19 -0.01
+
+пояснения к этому заданию и его решение
+https://www.cyberforum.ru/python-science/thread1991699.html
+https://xn--80ahcjeib4ac4d.xn--p1ai/information/solving_systems_of_linear_equations_in_python/
